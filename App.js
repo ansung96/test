@@ -16,7 +16,6 @@ export default function App() {
       </div>
 
       <ul>
-        <li className="todo">
           <div className="card">
             <h2>Learn React</h2>
             <p>Learn React fundamentals & explore core concepts</p>
